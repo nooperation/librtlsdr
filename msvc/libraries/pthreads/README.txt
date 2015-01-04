@@ -8,6 +8,10 @@ This is only required to build the following projects: rtl_adsb, rtl_fm, rtl_pow
       msvc\libraries\pthreads\Pre-built.2\include
       msvc\libraries\pthreads\Pre-built.2\lib
 
-3. Copy msvc\libraries\pthreads\Pre-built.2\dll\x86\pthreadVC2.dll to Release and Debug Directories of msvc\20XX\
+3. Copy msvc\libraries\pthreads\Pre-built.2\dll\x86\pthreadVC2.dll to:
+      msvc\20xx\Release
+	  msvc\20xx\Debug
 
-4. Copy msvc\libraries\pthreads\Pre-built.2\dll\x64\pthreadVC2.dll to Release and Debug Directories of msvc\20XX\
+4. Copy msvc\libraries\pthreads\Pre-built.2\dll\x64\pthreadVC2.dll to:
+      msvc\20xx\x64\Release
+	  msvc\20xx\x64\Debug

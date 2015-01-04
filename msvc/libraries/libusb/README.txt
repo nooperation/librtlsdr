@@ -8,6 +8,10 @@ Instructions for obtaining the libusb library.
 	  msvc\libraries\libusb\MS32\
 	  msvc\libraries\libusb\MS64\
 
-3. Copy msvc\libraries\libusb\MS32\libusb-1.0.dll to Release and Debug Directories of msvc\20XX\
-
-4. Copy msvc\libraries\libusb\MS64\libusb-1.0.dll to Release and Debug Directories of msvc\20XX\x64\
+3. Copy msvc\libraries\libusb\MS32\libusb-1.0.dll to:
+      msvc\20xx\Release
+	  msvc\20xx\Debug
+	  
+4. Copy msvc\libraries\libusb\MS64\libusb-1.0.dll to:
+      msvc\20xx\x64\Release
+	  msvc\20xx\x64\Debug
